@@ -1,4 +1,5 @@
 # STM32F030_Solder
+Use STM32Cube IDE 1.6.0
 <img width="598" alt="Screen Shot 2021-06-06 at 3 19 21 PM" src="https://user-images.githubusercontent.com/8245980/120916173-9c287780-c6da-11eb-9a61-26ed5db31b24.png">
 
 
