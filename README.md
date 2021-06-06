@@ -1,4 +1,6 @@
 # STM32F030_Solder
+<img width="500" alt="Screen Shot 2021-06-06 at 3 30 16 PM" src="https://user-images.githubusercontent.com/8245980/120916414-1efe0200-c6dc-11eb-9979-f46b4e0b690d.png">
+
 ## Use STM32Cube IDE 1.6.0
 ### 輸入電壓 5VDC/1000mA
 ### Key 1 = 進行錫膏擠出
